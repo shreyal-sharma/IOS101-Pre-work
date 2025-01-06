@@ -25,16 +25,16 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
-** Fav Apps **
+**Fav Apps**
 - **Tiktok**
   - Allow users to record or upload short videos
   - Infinite scroll
   - add comments
 - **Snap Chat**
- - Connect numbers with snap account
- - Camera Filters
- - Delete messages
- - Photo/snap Memories    
+  - Connect numbers with snap account
+  - Camera Filters
+  - Delete messages
+  - Photo/snap Memories    
 
 The **"SlideGen"** app allows users to quickly generate slide presentations based on simple text prompts, ideal for users who need to create presentations fast. The app will provide a user-friendly interface for creating and customizing slides with minimal effort, similar to Canva’s intuitive design. Initially, the app will feature basic functionality, such as selecting a template, entering a title or prompt, and automatically generating slides with relevant content. Users can customize the slide layout, font styles, and background colors, while keeping the design process simple and accessible for beginners. Future updates could include advanced features like image insertion, animation effects, and cloud syncing for collaboration. This app will help users create professional-looking presentations in minutes while offering an easy entry point for learning iOS development.
 
